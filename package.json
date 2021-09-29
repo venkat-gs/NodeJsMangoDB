@@ -1,0 +1,21 @@
+{
+  "name": "crudmongodb",
+  "version": "1.0.0",
+  "description": "CRUD Operation",
+  "main": "app.js",
+  "start": "nodemon app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^4.1.2",
+    "mongoose": "^6.0.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venkat",
+  "license": "ISC"
+}
