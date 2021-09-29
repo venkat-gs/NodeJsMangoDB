@@ -6,3 +6,5 @@ Prerequisites:
       3) Create node project -- npm init
       4) Install express framework nodejs.
       5) Install nodemon -- Optional one
+
+Run batch file or set your mongodb exe path in environment variable in your machine.
